@@ -39,7 +39,7 @@ The simulation runs entirely on the GPU using WebGL2 fragment shaders for real-t
 
 ## Credits
 
-Built on the [SymmHub](https://github.com/nickvbulatov/SymmHub) engine by Vladimir Bulatov, Chaim Goodman-Strauss, and Scott Vorthmann.
+Built on the [SymmHub](https://github.com/SymmHub/SymmHub) engine by Vladimir Bulatov, Chaim Goodman-Strauss, and Scott Vorthmann.
 
 ## License
 
